@@ -1,0 +1,22 @@
+.odd {
+    background-color: lightcoral;
+    font-family: Verdana, Tahoma, sans-serif sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+p {
+    background-color: lightcoral;
+}
+
+#four {
+    background-color: rgb(46, 199, 8);
+    font-weight: bold;
+}
+
+.same {
+    font-size: 24px;
+}
